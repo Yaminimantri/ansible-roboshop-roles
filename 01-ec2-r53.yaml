@@ -7,7 +7,7 @@
     zone_id: "Z06672831LSN6WUF978LV" # replace with your ID
     domain_name: "yaminiaws.fun"
     instances: 
-    - mongodb
+    # - mongodb
     # - redis
     # - mysql
     # - rabbitmq
